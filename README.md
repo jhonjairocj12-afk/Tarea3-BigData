@@ -4,20 +4,20 @@ Este repositorio contiene la solución para el componente de **Procesamiento en 
 
 ---
 
-## 📁 Archivos del Repositorio
+## Archivos del Repositorio
 * **`batch_analysis.py`**: Script principal en PySpark que realiza la carga, limpieza, agregaciones y visualización de datos.
 * **`Transporte.csv`**: Dataset oficial extraído del portal de datos abiertos de Colombia (`datos.gov.co`) con registros de afluencia de pasajeros en sistemas como Transmilenio, MIO, SITVA, Megabús, entre otros.
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+## Tecnologías Utilizadas
 * **Apache Spark (PySpark)**: Motor de procesamiento distribuido en lote.
 * **Python**: Lenguaje de programación base.
 * **Linux / PuTTY**: Entorno de ejecución en Máquina Virtual.
 
 ---
 
-## 🚀 Instrucciones de Ejecución
+## Instrucciones de Ejecución
 
 Para ejecutar el proyecto en tu entorno local o virtual de Spark:
 
