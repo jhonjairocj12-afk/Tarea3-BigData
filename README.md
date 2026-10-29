@@ -37,7 +37,7 @@ El script `batch_analysis.py` realiza automáticamente los siguientes pasos:
 
 A continuación se presenta el resultado del procesamiento en lote con la demanda acumulada por sistema:
 
-![Total de Pasajeros por Sistema](grafica_resultados.png)
+![Total de Pasajeros por Sistema](Grafica_Resultados.jpg)
 
 ---
 
