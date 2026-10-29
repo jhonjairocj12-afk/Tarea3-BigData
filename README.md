@@ -33,14 +33,6 @@ El script `batch_analysis.py` realiza automáticamente los siguientes pasos:
 
 ---
 
-## 📊 Visualización de Resultados
-
-A continuación se presenta el resultado del procesamiento en lote con la demanda acumulada por sistema:
-
-![Total de Pasajeros por Sistema](Grafica_Resultados.jpg)
-
----
-
 ## 🚀 Instrucciones de Ejecución
 
 Para ejecutar el pipeline en tu entorno local o en la máquina virtual de Spark:
